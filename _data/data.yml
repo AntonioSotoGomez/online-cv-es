@@ -8,30 +8,30 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Juan Carlos Delgado De La Torre
-    tagline: Backend | Web Scraping | Blockchain
-    avatar: perfil.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Antonio César Soto Gómez
+    tagline: CNC | Mecanizado | Máquinas Térmicas
+    avatar: Perfil.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jcdelgado5.0006@yahoo.es
+    email: antoniosoto4566@gmail.com
     phone: 
     timezone: 
     citizenship:
     website: # https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: juan-carlos-delgado-de-la-torre
+    linkedin: Antonio César Soto Gómez
     xing: 
-    github: icyjkk
-    telegram: icyjkk # add your nickname without '@' sign
+    github: # icyjkk
+    telegram: # icyjkk # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@Jkdelatorre_'
+    twitter: # '@Jkdelatorre_'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: https://icyjkk.github.io/online-cv-en/ # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: #https://icyjkk.github.io/online-cv-en/ # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Idiomas
@@ -40,21 +40,21 @@ sidebar:
           level: Nativo
 
         - idiom: Inglés
-          level: B1 Cambridge
+          level: B2 Cambridge
 
     interests:
       title: Intereses
       info:
-        - item: Moda
+        - item: Industria automovilística
           link:
 
-        - item: Deportes
+        - item: Maquinas y herramientas para mecanizado
           link:
 
-        - item: Musica
+        - item: Industria minera
           link:
 
-        - item: Blockchain
+        - item: # Blockchain
           link:
 
 career-profile:
@@ -67,19 +67,19 @@ career-profile:
 education:
     title: Educación
     info:
-      - degree: Grado en Ingeniería Informática
-        university: Universidad de Málaga (UMA)
+      - degree: Grado en Ingeniería Mecánica
+        university: Universidad de Jaén (UJA)
         time: 
         details: |    
-      - degree: Grado en Ingeniería Informática
-        university: Czech University of Life Sciences Prague (CZU)
-        time: 
-        details: |
-          Estudiante erasmus durante un trimestre.
-      - degree: Curso de extensión universitaria en tecnologías blockchain
+      - degree: Grado en Ingeniería Mecánica
         university: Universidad de Málaga (UMA)
         time: 
         details: |
+          Comienzo de la carrera en la Universidad de Málaga durante tres años.
+      - degree: # Curso de extensión universitaria en tecnologías blockchain
+        university: #Universidad de Málaga (UMA)
+        time: 
+        details: #|
             - Ecosistema blockchain.
             - Lenguaje de programación Solidity.
             - Auditoria de Smart Contracts.
@@ -92,42 +92,40 @@ education:
 experiences:
     title: Experiencia
     info:
-      - role: Freelance
-        time: 2021 - Actualidad
+      - role: Ingeniero Mecánico
+        time: 2024 - 2025
         company: 
         details: |
-          He trabajado como desarrollador freelance creando soluciones automatizadas y softwares para grupos privados de Discord, utilizando principalmente Python. Mis proyectos incluyen:
-            - Monitores para facilitar la compra de articulos limitados como zapatillas, moda, tickets de conciertos, NFTs...etc, implementando técnicas de web scraping.
-            - Software de monitorización de precios de criptomonedas, utilizando APIs externas y automatizando alertas en tiempo real.
-            - Monitor de Twitter desarrollado con la API de Twitter para rastrear menciones de cuentas específicas, hashtags o palabras clave. Automatización de notificaciones en tiempo real integradas en Discord.
-            - Desarrollo de extension de Chrome en JavaScript para automatizar procesos en Amazon.
-      - role: Ingeniero informático 
-        time: abr. 2023 - jun. 2023
-        company: Fortris, Málaga
+          Adaptación de fresadora manual a fresadora controloada por control numérico como trabajo final de grado, 
+          con la finalidad de obtener experiencia con el uso de  máquinas de mecanizado (tornos, fresadoras y cortadoras láser), 
+          fabricar piezas de repuesto para coches y máquinas.
+          Alto conocimiento en sistemas para el control de motores paso a paso y programas para generar códigos de mecanizado.
+          
+      - role: Ferrallista  
+        time: jun. 2023 - sept. 2023
+        company: #Fortris, Málaga
         details: |
-            - Desarrollo de una wallet de Bitcoin con opciones de custodia avanzada, usando Miniscript, timelocks y descriptores.
-            - Implementación de un sistema de recuperación de fondos en caso de pérdida de la frase semilla, mejorando la seguridad de los activos.
-            - Uso de Node, NestJs, React y Web3 para construir la lógica.
-            - Integración de APIs para la recuperación de datos y transacciones en tiempo real.
-      - role: Jugador de fútbol
-        time: 2014 - 2017
-        company: Málaga Club De Fútbol, Málaga
-        details: |
-            - Experiencia de 3 años como jugador de fútbol en el Málaga Club de Fútbol.
-            - Desarrollo de habilidades como trabajo en equipo, disciplina y gestión del tiempo.
-            - Capacidad para trabajar bajo presión y adaptarse a situaciones de cambio.
-            - Aplicación de valores como la resiliencia, la dedicación y el esfuerzo constante en mi carrera profesional.
+            - Preparación del corrugado para posterior armado, según planos técnicos.
+            - Colocación y fijación del armado en obra.
+        
+      - role: Operador de maquinaria
+        time: jun. 2020 - sept. 2022
+        company: # Málaga Club De Fútbol, Málaga
+        details: # |
+            - Conducción de camiones.
+            - Trabajos con máquinas excavadoras
+         
 
 certifications:
-      title: Certificaciones
+      title: # Certificaciones
       list:
-        - name: 'Seguridad informática a través del engaño: honeypots, honeywebs y ocultación/reemplazo de servidores bajo ataque'
+        - name: #'Seguridad informática a través del engaño: honeypots, honeywebs y ocultación/reemplazo de servidores bajo ataque'
           start: 
           end: 
-          organization: Universidad de Málaga (UMA)
+          organization: # Universidad de Málaga (UMA)
           credentialid: 
           credentialurl: 
-          credentialname: Uma
+          credentialname:# Uma
           details: |
 
 # projects:
@@ -177,47 +175,47 @@ certifications:
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publicaciones
+    title: # Publicaciones
     intro: |
     papers:
-      - title: Custodia de fondos avanzada con Timelocks y Miniscript
-        link: "https://www.scitel.es/jitel/actas/Actas_Jitel_2023_Barcelona.pdf"
-        authors: Juan Carlos Delgado De La Torre, Diego García Muñoz, Álvaro López Sánchez, Miguel Angel Fortes Santiago, Antonio Tovar
-        conference: Jitel 2023 (169-174)
+      - title: # Custodia de fondos avanzada con Timelocks y Miniscript
+        link: #"https://www.scitel.es/jitel/actas/Actas_Jitel_2023_Barcelona.pdf"
+        authors: # Juan Carlos Delgado De La Torre, Diego García Muñoz, Álvaro López Sánchez, Miguel Angel Fortes Santiago, Antonio Tovar
+        conference: #Jitel 2023 (169-174)
 
 skills:
     title: Habilidades
 
     toolset:
-      - name: Python (Flask)
-        level: 98%
+      - name: Abaqus
+        level: #98%
 
-      - name: Javascript (React, NestsJS, Node, Express)
-        level: 98%
+      - name: ANSYS
+        level: #98%
 
-      - name: Java
-        level: 98%
+      - name: CATIA V5
+        level: #98%
 
-      - name: Solidity
-        level: 95%
+      - name: SOLIDWORKS
+        level: #95%
 
-      - name: Bases de Datos (SQL, NoSQL)
-        level: 85%
+      - name: REVIT
+        level: #85%
 
-      - name: Almacén de Datos (ETL)
+      - name: # Almacén de Datos (ETL)
 
-      - name: Haskell
-        level: 60%
+      - name: AUTOCAD
+        level: #60%
 
-      - name: C++
-        level: 60%
+      - name: MATLAB
+        level: # 60%
 
-      - name: Web Scrapping (Requests, BeautifulSoup, Selenium)
+      - name: MACH 3
 
-      - name: Blockchain (Bitcoin, Ethereum)
+      - name: #Blockchain (Bitcoin, Ethereum)
 
-      - name: Metodología Ágil
+      - name: #Metodología Ágil
 
-      - name: Estructura de Datos
+      - name: #Estructura de Datos
 
 

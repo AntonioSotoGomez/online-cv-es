@@ -115,7 +115,7 @@ experiences:
             - Trabajos con máquinas excavadoras
          
 
-# certifications: #
+# certifications: 
 #      title: # Certificaciones
 #     list:
 #      - name: #'Seguridad informática a través del engaño: honeypots, honeywebs y ocultación/reemplazo de servidores bajo ataque'
@@ -186,30 +186,30 @@ skills:
     title: Habilidades
 
     toolset:
-      - name: Abaqus
+      - name: ABAQUS, ANSYS.
         level: #98%
 
-      - name: ANSYS
+      - name: CATIA V5, SOLIDWORKS.
         level: #98%
 
-      - name: CATIA V5
+      - name: AUTOCAD, REVIT.
         level: #98%
 
-      - name: SOLIDWORKS
+      - name: MATLAB.
         level: #95%
 
-      - name: REVIT
+      - name: MACH 3
         level: #85%
 
       - name: # Almacén de Datos (ETL)
 
-      - name: AUTOCAD
+      - name: #AUTOCAD
         level: #60%
 
       - name: MATLAB
         level: # 60%
 
-      - name: MACH 3
+      - name: #MACH 3
 
       - name: #Blockchain (Bitcoin, Ethereum)
 

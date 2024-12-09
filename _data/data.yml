@@ -115,17 +115,17 @@ experiences:
             - Trabajos con máquinas excavadoras
          
 
-certifications:
-      title: # Certificaciones
-      list:
-        - name: #'Seguridad informática a través del engaño: honeypots, honeywebs y ocultación/reemplazo de servidores bajo ataque'
-          start: 
-          end: 
-          organization: # Universidad de Málaga (UMA)
-          credentialid: 
-          credentialurl: 
-          credentialname: # Uma
-          details: |
+# certifications: #
+#      title: # Certificaciones
+#     list:
+#      - name: #'Seguridad informática a través del engaño: honeypots, honeywebs y ocultación/reemplazo de servidores bajo ataque'
+#       start: 
+#      end: 
+#     organization: # Universidad de Málaga (UMA)
+#    credentialid: 
+#   credentialurl: 
+#  credentialname: # Uma
+# details: |
 
 # projects:
 #    title: Projects
@@ -173,14 +173,14 @@ certifications:
 #       link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: # Publicaciones
-    intro: |
-    papers:
-      - title: # Custodia de fondos avanzada con Timelocks y Miniscript
-        link: #"https://www.scitel.es/jitel/actas/Actas_Jitel_2023_Barcelona.pdf"
-        authors: # Juan Carlos Delgado De La Torre, Diego García Muñoz, Álvaro López Sánchez, Miguel Angel Fortes Santiago, Antonio Tovar
-        conference: #Jitel 2023 (169-174)
+# publications: 
+#    title: # Publicaciones
+#    intro: |
+#    papers:
+#      - title: # Custodia de fondos avanzada con Timelocks y Miniscript
+#       link: #"https://www.scitel.es/jitel/actas/Actas_Jitel_2023_Barcelona.pdf"
+#      authors: # Juan Carlos Delgado De La Torre, Diego García Muñoz, Álvaro López Sánchez, Miguel Angel Fortes Santiago, Antonio Tovar
+#     conference: #Jitel 2023 (169-174)
 
 skills:
     title: Habilidades

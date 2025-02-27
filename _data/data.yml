@@ -13,12 +13,14 @@ sidebar:
     avatar: Perfil.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: antoniosoto4566@gmail.com
-    phone: 
+    email: sotogomezantonio@gmail.com
+    phone: 692878639
     timezone: 
     citizenship:
     website: # https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: Antonio César Soto Gómez
+    linkedin: antoniocésarsotogómez
+
+
     xing: 
     github: # icyjkk
     telegram: # icyjkk # add your nickname without '@' sign

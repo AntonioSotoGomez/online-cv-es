@@ -1,6 +1,7 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -129,13 +130,13 @@ experiences:
 #  credentialname: # Uma
 # details: |
 
-   projects:
-     title: Proyectos
+projects:
+    title: Proyectos
 #    intro: >
 #      You can list your side projects in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-     assignments:
+    assignments:
        - title: Adaptación de fresadora manual a CNC
 #        link: "#hook"
          tagline: Adaptación de una fresadora manual a CNC como Trabajo Final de Grado, integrando controladores, motores paso a paso y generación de código G para automatizar el proceso de mecanizado. 

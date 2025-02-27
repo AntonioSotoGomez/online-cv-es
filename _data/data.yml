@@ -77,8 +77,8 @@ education:
         time: 
         details: |
     
-      - degree: # Curso de extensión universitaria en tecnologías blockchain
-        university: #Universidad de Málaga (UMA)
+      - degree: Grado de Ingeniería Mecánica
+        university: Universidad de Málaga (UMA)
         time: 
         details: #|
             - Ecosistema blockchain.
@@ -130,16 +130,18 @@ experiences:
 #  credentialname: # Uma
 # details: |
 
-# projects:
-#    title: Projects
+   projects:
+     title: Proyectos
 #    intro: >
 #      You can list your side projects in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
+     assignments:
+       - title: Adaptación de fresadora manual a CNC
 #        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+         tagline: Adaptación de una fresadora manual a CNC como Trabajo Final de Grado, integrando controladores, motores paso a paso y generación de código G para automatizar el proceso de mecanizado. 
+         El proyecto permitió adquirir experiencia en tornos y fresadoras, además de permitir fabricar piezas de repuesto para coches y maquinaria. 
+         Desarrollo de sistemas de control de movimiento y optimización de procesos de mecanizado.
 #
 #      - title: DevStudio
 #        link: "#"

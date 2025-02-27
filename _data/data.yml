@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Antonio César Soto Gómez
-    tagline: CNC | Mecanizado | Máquinas Térmicas
+    tagline: CNC y Automatización | Diseño CAD/CAM | Normativas de Seguridad y Calidad
     avatar: Perfil.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,23 +47,23 @@ sidebar:
     interests:
       title: Intereses
       info:
-        - item: Industria automovilística
+        - item: Diseño y Fabricación de Máquinas CNC
           link:
 
-        - item: Maquinas y herramientas para mecanizado
+        - item: Automoción y Motores de Alto Rendimiento
           link:
 
-        - item: Conformado de piezas metálicas
+        - item: Ingeniería de Maquinaria Industrial
           link:
 
-        - item: # Blockchain
+        - item: Optimización de Procesos Productivos
           link:
 
 career-profile:
     title: Sobre Mi
     summary: | 
-        Soy Ingeniero Mecánico por la Universidad de Jaén (UJA) con experiencia en control numérico, procesos de mecanizado y análisis de elementos finitos.
-      
+        Soy Ingeniero Técnico Industrial especializado en Mecánica por la Universidad de Jaén (UJA) especializado en CNC y mecanizado de precisión, con conocimientos en automatización industrial, diseño mecánico y simulación FEM. Conocimientos en normativas de seguridad y selección de materiales, aplicados a la fabricación y optimización de maquinaria. Habilidades en CAD/CAM, mantenimiento industrial y gestión de proyectos técnicos.
+        Busco una oportunidad para aportar soluciones innovadoras en automoción, manufactura avanzada y procesos productivos, mejorando la eficiencia y el rendimiento industrial
 
 education:
     title: Educación
@@ -72,11 +72,11 @@ education:
         university: Universidad de Jaén (UJA)
         time: 
         details: |    
-      - degree: Grado en Ingeniería Mecánica
-        university: Universidad de Málaga (UMA)
+      - degree: 
+        university: 
         time: 
         details: |
-          Comienzo de la carrera en la Universidad de Málaga durante tres años.
+    
       - degree: # Curso de extensión universitaria en tecnologías blockchain
         university: #Universidad de Málaga (UMA)
         time: 
@@ -96,25 +96,25 @@ experiences:
       - role: Ingeniero Mecánico
         time: 2024 - 2025
         company: 
-        details: |
-          Adaptación de fresadora manual a fresadora controloada por control numérico como trabajo final de grado, 
-          con la finalidad de obtener experiencia con el uso de  máquinas de mecanizado (tornos, fresadoras y cortadoras láser), 
-          fabricar piezas de repuesto para coches y máquinas.
-          Alto conocimiento en sistemas para el control de motores paso a paso y programas para generar códigos de mecanizado.
+        details: | Trabajo de Fin de Grado
+         Adaptación de una fresadora manual a CNC como Trabajo Final de Grado, integrando controladores, motores paso a paso y generación de código G para automatizar el proceso de mecanizado. 
+         El proyecto permitió adquirir experiencia en tornos y fresadoras, además de permitir fabricar piezas de repuesto para coches y maquinaria. 
+         Desarrollo de sistemas de control de movimiento y optimización de procesos de mecanizado.
           
-      - role: Ferrallista  
+      - role: Operador de maquinaria pesada  
         time: jun. 2023 - sept. 2023
         company: #Fortris, Málaga
         details: |
-            - Preparación del corrugado para posterior armado, según planos técnicos.
-            - Colocación y fijación del armado en obra.
+            - Manejo y mantenimiento de maquinaria hidráulica y equipos pesados, aplicable a la ingeniería mecánica.
+            - Diagnóstico y solución de fallos mecánicos en maquinaria.
+            - Aplicación de mantenimiento preventivo y correctivo.
         
-      - role: Operador de maquinaria
+      - role: Ferrallista en obra
         time: jun. 2020 - sept. 2022
         company: # Málaga Club De Fútbol, Málaga
         details: |
-            - Conducción de camiones.
-            - Trabajos con máquinas excavadoras
+            - Interpretación y lectura de planos técnicos para la fabricación y montaje de estructuras metálicas.
+            - Conocimientos en materiales y procesos de fabricación, aplicables a la ingeniería mecánica y mecanizado.
          
 
 # certifications: 
@@ -188,27 +188,27 @@ skills:
     title: Habilidades
 
     toolset:
-      - name: ABAQUS, ANSYS.
+      - name: CNC y Programación en Código G (MACH 3).
         level: #98%
 
-      - name: CATIA V5, SOLIDWORKS.
+      - name: Simulación FEM y Análisis de Componentes(ANSYS).
         level: #98%
 
-      - name: AUTOCAD, REVIT.
+      - name: Normativas de Seguridad y Calidad (Marcado CE, Directiva de Máquinas).
         level: #98%
 
-      - name: MATLAB.
+      - name: Interpretación de Planos Técnicos y Selección de Materiales y Análisis Estructural.
         level: #95%
 
-      - name: MACH 3
+      - name: Capacidad de Análisis y Resolución de Problemas.
         level: #85%
 
-      - name: # Almacén de Datos (ETL)
+      - name: Diseño CAD/CAM (SolidWorks, AutoCAD, Catia).
 
       - name: #AUTOCAD
         level: #60%
 
-      - name: MATLAB
+      - name: #MATLAB
         level: # 60%
 
       - name: #MACH 3

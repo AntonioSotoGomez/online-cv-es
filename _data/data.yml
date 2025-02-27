@@ -96,7 +96,8 @@ experiences:
       - role: Ingeniero Mecánico
         time: 2024 - 2025
         company: 
-        details: | Trabajo de Fin de Grado
+        details: | 
+         Trabajo de Fin de Grado
          Adaptación de una fresadora manual a CNC como Trabajo Final de Grado, integrando controladores, motores paso a paso y generación de código G para automatizar el proceso de mecanizado. 
          El proyecto permitió adquirir experiencia en tornos y fresadoras, además de permitir fabricar piezas de repuesto para coches y maquinaria. 
          Desarrollo de sistemas de control de movimiento y optimización de procesos de mecanizado.

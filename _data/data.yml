@@ -140,7 +140,7 @@ projects:
        - title: Adaptación de fresadora manual a CNC
 #        link: "#hook"
          tagline: 
-         Adaptación de una fresadora manual a CNC como Trabajo Final de Grado, integrando controladores, motores paso a paso y generación de código G para automatizar el proceso de mecanizado.
+         :Adaptación de una fresadora manual a CNC como Trabajo Final de Grado, integrando controladores, motores paso a paso y generación de código G para automatizar el proceso de mecanizado.
          El proyecto permitió adquirir experiencia en tornos y fresadoras, además de permitir fabricar piezas de repuesto para coches y maquinaria.
          Desarrollo de sistemas de control de movimiento y optimización de procesos de mecanizado.
 #
